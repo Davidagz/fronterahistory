@@ -40,6 +40,13 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+frontend/fronterahistory/node_modules
+
+
+frontend/fronterahistory/npm-debug.log*
+frontend/fronterahistory/yarn-debug.log*
+frontend/fronterahistory/yarn-error.log*
+
 
 # TypeScript v1 declaration files
 typings/
